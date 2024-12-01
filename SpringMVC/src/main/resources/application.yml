@@ -1,0 +1,16 @@
+spring:
+  application.name:  MySpringBoot
+  datasource:
+    url: jdbc:postgresql://localhost:5433/library
+    username: postgres
+    password: ishtuganov
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+        show_sql: true
+  mvc:
+    hiddenmethod:
+      filter:
+        enabled: true

@@ -1,0 +1,11 @@
+ishtuganov\springcourse\MySpringBootApplication.class
+ishtuganov\springcourse\models\Book.class
+ishtuganov\springcourse\services\BooksService.class
+ishtuganov\springcourse\services\PeopleService.class
+ishtuganov\springcourse\repositories\PeopleRepository.class
+ishtuganov\springcourse\controllers\PeopleController.class
+ishtuganov\springcourse\models\Person.class
+ishtuganov\springcourse\controllers\BooksController.class
+ishtuganov\springcourse\util\PersonValidator.class
+ishtuganov\springcourse\controllers\MainPageController.class
+ishtuganov\springcourse\repositories\BooksRepository.class
